@@ -1,0 +1,6 @@
+package com.rawnewton.goo_app_pay
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
